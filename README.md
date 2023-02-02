@@ -2,8 +2,8 @@
 
 Aplicación web creada con React donde se puede ver el menu de pizzas disponibles, ver el detalle de cada producto y agregar al carrito de compras.
 
-Se utilizó React Router para controlar rutas y redireccionamientos.
-Se utilizó Context API almacenar y modificar el estado global
+- *Se utilizó React Router para controlar rutas y redireccionamientos.*
+- *Se utilizó Context API almacenar y modificar el estado global.*
 
 
 
