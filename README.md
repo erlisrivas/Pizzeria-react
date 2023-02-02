@@ -6,7 +6,8 @@ Se utilizó React Router para controlar rutas y redireccionamientos.
 Se utilizó Context API almacenar y modificar el estado global
 
 
-inglese A### :hammer_and_wrench: languages and tools:
+
+### :hammer_and_wrench: languages and tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height= "40"/> 
