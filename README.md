@@ -16,7 +16,9 @@ Aplicación web creada con React donde se puede ver el menu de pizzas disponible
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40 "/> 
  <img src="https://www.freeiconspng.com/uploads/github-icon-1.png" title="Github" **alt="Github" width="40" height="40"/>
 </div>
+<br><br>
 
+<img src="https://github.com/erlisrivas/Pizzeria-react/blob/master/pizzeriaimg.png" width="400">
 
 
 ## [Ver aqui](https://pizzeria-mamma-mia.vercel.app/)
